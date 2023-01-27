@@ -41,6 +41,13 @@ ul {
 
 body {
   background: var(--clr-violet) url('./images/bg-mobile.svg') no-repeat;
+  color: hsl(0, 0%, 100%);
+  font-family: var(--ff-open-sans);
+}
+
+h1,
+button {
+  font-family: var(--ff-poppins);
 }
 
 @media screen and (min-width: 375px) {
