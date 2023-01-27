@@ -7,6 +7,15 @@
   padding: 0;
 }
 
+/* VARIABLES */
+:root {
+  --clr-violet: hsl(257, 40%, 49%);
+  --clr-magenta: hsl(300, 69%, 71%);
+
+  --ff-open-sans: 'Open Sans', sans-serif;
+  --ff-poppins: 'Poppins', sans-serif;
+}
+
 html,
 body {
   height: 100%;
